@@ -160,7 +160,18 @@ header {
 }
 
 #navbar nav {
-  
+  border-left: 1px solid #ccc;
+}
+
+#navbar nav a {
+  display: inline-block;
+  width: 16.66667;
+  margin: 0;
+  padding: 22px 0px;
+  text-transform: uppercase;
+  color: black;
+  text-align: center;
+  border-right: 1px solid #ccc;
 }
 
 /*////////// LOGO //////////*/
