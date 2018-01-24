@@ -172,6 +172,8 @@ header {
   color: black;
   text-align: center;
   border-right: 1px solid #ccc;
+  text-decoration: none; /* link won't be underlined */
+  font: 1em "Trebuchet MS", Helvetica;
 }
 
 /*////////// LOGO //////////*/
